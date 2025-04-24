@@ -24,6 +24,6 @@ The key objectives of this project include:
 
 ## 🛠 Tools Used
 
-- SQL (MySQL or any compatible RDBMS)
+- SQL (MySQL Workbench)
 - Excel/CSV for initial dataset formatting
 - Git & GitHub for version control
