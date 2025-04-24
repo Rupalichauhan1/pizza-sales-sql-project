@@ -9,7 +9,7 @@ This project is a SQL-based analysis of a pizza sales dataset. The aim is to ext
 ## 📁 Dataset
 
 - The dataset used in this project is based on pizza sales including order dates, quantities, prices, and pizza types.
-- File used: `Pizza_Sales_Data.csv` *(not included here, assumed already imported into SQL environment)*
+- File used: `Pizza_Sales_Data.csv` *(not included here, already imported into SQL environment)*
 
 ---
 
