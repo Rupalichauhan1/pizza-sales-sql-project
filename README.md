@@ -1,6 +1,4 @@
-# pizza-sales-sql-project
-
-# 🍕 Pizza Sales SQL Project
+# Pizza Sales SQL Project
 
 This project is a SQL-based analysis of a pizza sales dataset. The aim is to extract valuable business insights using structured queries. The project includes 13 different SQL statements written to analyze revenue, customer behavior, sales performance, and more.
 
